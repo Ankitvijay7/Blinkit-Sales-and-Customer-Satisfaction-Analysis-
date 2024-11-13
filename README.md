@@ -1,2 +1,2 @@
-# Blinkit-Sales-and-Customer-Satisfaction-Analysis-
+# Blinkit-Sales-and-Customer-Satisfaction-Analysis
 In this project, I analyzed Blinkit’s sales and customer satisfaction metrics using Power BI, identifying key KPIs to drive improvements in sales and customer satisfaction. Through data cleaning, modeling, and DAX calculations, I created interactive dashboards that reveal actionable insights. My recommendations also included strategies to reduce inventory costs, supporting Blinkit’s goals for sustainable growth and operational efficiency.
